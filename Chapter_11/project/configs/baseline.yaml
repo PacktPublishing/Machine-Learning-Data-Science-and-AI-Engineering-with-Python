@@ -1,0 +1,14 @@
+dataset: Fashion-MNIST
+model: FashionCNN
+
+seed: 42
+train_split: 0.8
+
+batch_size: 64
+learning_rate: 0.001
+dropout: 0.3
+optimizer: Adam
+epochs: 5
+
+run_name: baseline_fashion_cnn
+model_path: models/fashion_cnn_baseline.pth
