@@ -1,0 +1,15 @@
+{
+    "model_version": "1.0.0",
+    "accuracy": 0.9666666666666667,
+    "classes": [
+        "setosa",
+        "versicolor",
+        "virginica"
+    ],
+    "input_features": [
+        "sepal_length",
+        "sepal_width",
+        "petal_length",
+        "petal_width"
+    ]
+}

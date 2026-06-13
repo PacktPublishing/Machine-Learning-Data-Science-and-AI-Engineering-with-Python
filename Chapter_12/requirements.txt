@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+torch
+scikit-learn
+joblib
+prometheus-client
