@@ -16,7 +16,7 @@
 | Chapter 11 |  [Fashion MNIST Solution](Chapter_11/fashion-mnist-solution-using-pytorch.ipynb)<br>[Fashion MNIST Solution & TensorBoard](Chapter_11/fashion_mnist_cnn_pytorch_tensorboard.py)<br>[Fashion MNIST Solution & MLflow](Chapter_11/fashion_mnist_cnn_pytorch_mlflow.py)<br>[Fashion MNIST Solution & Optuna](Chapter_11/fashion_mnist_cnn_pytorch_optuna.py)<br>[Fashion MNIST Solution & Ray Tune](Chapter_11/fashion_mnist_cnn_pytorch_raytune.py)<br>[Optimization and experiment tracking](Chapter_11/project/)| Initial solution for Fashion-MNIST with PyTorch - modified for easy parameterization<br>Use TensorBoard for local training inspection<br>Experiment tracking with MLflow<br>Hyperparameter optimization with Optuna<br>Scalling Hyperparameter optimization with Ray Tune<br>End-to-end project with Optuna & MLflow |
 | Chapter 12 | [Train, Deploy, Serve, and Monitor a ML Solution](Chapter_12)  | Train a PyTorch model, deploy the inference service using FastAPI and Docker, monitor the service using Prometheus  |
 | Chapter 13 | [Scalling, automation, and MLOps pipeline](Chapter_13)  | Train a custom model, monitor model performance and trigger retraining |
-| Chapter 14 |   | |
+| Chapter 14 |  [Train a GAN to generate new handwritten digits](Chapter_14) | Generative Models and Autoencoders: Train a GAN to generate new handwritten digits |
 | Chapter 15 |   | |
 | Chapter 16 |   | |
 | Chapter 17 |   | |
