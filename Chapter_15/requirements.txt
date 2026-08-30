@@ -1,0 +1,10 @@
+chromadb
+deepeval
+langchain-chroma
+langchain-core
+langchain-openai
+langchain-text-splitters
+pypdf
+python-dotenv
+pydantic
+rich

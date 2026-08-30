@@ -17,6 +17,6 @@
 | Chapter 12 | [Train, Deploy, Serve, and Monitor a ML Solution](Chapter_12)  | Train a PyTorch model, deploy the inference service using FastAPI and Docker, monitor the service using Prometheus  |
 | Chapter 13 | [Scalling, automation, and MLOps pipeline](Chapter_13)  | Train a custom model, monitor model performance and trigger retraining |
 | Chapter 14 |  [Train a GAN to generate new handwritten digits](Chapter_14) | Generative Models and Autoencoders: Train a GAN to generate new handwritten digits |
-| Chapter 15 |   | |
+| Chapter 15 |   [RAG System](Chapter_15)| A simple Retrieval Augmented Generation (RAG) system using OpenAI model and text embeddings, LangChain and Chroma DB |
 | Chapter 16 |   | |
 | Chapter 17 |   | |
