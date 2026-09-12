@@ -18,5 +18,5 @@
 | Chapter 13 | [Scalling, automation, and MLOps pipeline](Chapter_13)  | Train a custom model, monitor model performance and trigger retraining |
 | Chapter 14 |  [Train a GAN to generate new handwritten digits](Chapter_14) | Generative Models and Autoencoders: Train a GAN to generate new handwritten digits |
 | Chapter 15 |   [RAG System](Chapter_15)| A simple Retrieval Augmented Generation (RAG) system using OpenAI model and text embeddings, LangChain and Chroma DB |
-| Chapter 16 |   | |
+| Chapter 16 |  [Agentic RAG System](Chapter_16) | 	Agentic RAG system, implemented with LangGraph, with evaluation, rewriting, reflection, retries, and streaming execution |
 | Chapter 17 |   | |
